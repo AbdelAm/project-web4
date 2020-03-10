@@ -327,7 +327,7 @@ header .slider .carousel .carousel-inner .item p {
 .contact .form {
     width: 40%;
     height: 60%;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     background-color: #fb7e7f;
     padding: 0 15px 15px;
     color: #fff;
@@ -416,7 +416,7 @@ footer p {
 ================================================================================================= */
 
 
-@media screen (max-width: 1000px) {
+@media screen and (max-width: 1000px) {
     
     header .navbar-fixed-top {
         top: 0;
@@ -435,7 +435,7 @@ footer p {
     }
 }
 
-@media screen (max-width: 768px {
+@media screen and (max-width: 768px) {
     .contact .form {
         width: 90%
     }
